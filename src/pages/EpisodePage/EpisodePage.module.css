@@ -1,0 +1,9 @@
+.listItems {
+    border-bottom: 1px solid #938a8a;
+    padding: 15px 40px;
+    margin: 0 100px
+}
+
+.item {
+    font-weight: bold;
+}
